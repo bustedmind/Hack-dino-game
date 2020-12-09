@@ -1,6 +1,6 @@
 # Welcome to Google chrome dino game hacks!
 
-![enter image description here](https://raw.githubusercontent.com/mabhaymaurya/Hack-dino-game/main/hack%20t-rex%20game.jpeg?token=AI6B4PFRA427TLSMBUITIPK72BHII)
+![Max-score-image](https://raw.githubusercontent.com/mabhaymaurya/Hack-dino-game/main/hack%20t-rex%20game.jpeg?token=AI6B4PFHZTFOQVGX6KU2MHK72BINO)
 
 Hi welcome, here you will learn how to hack google chrome **dinosaur game** ( **t-rex** game ). You only need to follow the below steps. With this you can acheive max score **999999**.  for more please visit below link.
 	
