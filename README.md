@@ -2,7 +2,9 @@
 
 ![enter image description here](https://raw.githubusercontent.com/mabhaymaurya/Hack-dino-game/main/hack%20t-rex%20game.jpeg?token=AI6B4PFRA427TLSMBUITIPK72BHII)
 
-Hi welcome, here you will learn how to hack google chrome **dinosaur game** ( **t-rex** game ). You only need to follow the below steps. With this you can acheive max score **999999**. 
+Hi welcome, here you will learn how to hack google chrome **dinosaur game** ( **t-rex** game ). You only need to follow the below steps. With this you can acheive max score **999999**.  for more please visit below link.
+	
+[Dino game hack Tutorial](https://youtu.be/j4_kvBsOKXc)
 
 - Dino game will automatically open in the chrome when there is no internet if you still not getting you just go to URL bar and enter 
 
