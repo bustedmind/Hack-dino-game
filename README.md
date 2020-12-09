@@ -1,5 +1,6 @@
-# Welcome to Google chrome dino game hacks!
-
+# Welcome to Google chrome dino game hacks! 😎
+  Author - [Busted Mind](https://github.com/bustedmind) 
+  
 ![Max-score-image](https://raw.githubusercontent.com/bustedmind/Hack-dino-game/main/hack%20t-rex%20game.jpeg)
 
 Hi welcome, here you will learn how to hack google chrome **dinosaur game** ( **t-rex** game ). You only need to follow the below steps. With this you can acheive max score **999999**.  for more please visit below link.
@@ -37,11 +38,13 @@ Please copy and paste the given code into console and enjoy the hacks. Play whil
 ## -- Change dino character
 
 You need one image URL like [https://raw.githubusercontent.com/bustedmind/Hack-dino-game/main/replace-charracter.png](https://raw.githubusercontent.com/bustedmind/Hack-dino-game/main/replace-charracter.png) and replace with image src of offline resources.
+.
 
 ![Image should be in this format](https://raw.githubusercontent.com/bustedmind/Hack-dino-game/main/replace-charracter.png)
 
 
-You copy the image URL and replace the image URL as per below SS 
+You copy the image URL and replace the image URL as per below SS.
+.
 
 ![enter image description here](https://raw.githubusercontent.com/bustedmind/Hack-dino-game/main/trex-resouce-replace.png)
 
@@ -80,4 +83,4 @@ Run the below code to let the JS play the game.
 ![enter image description here](https://raw.githubusercontent.com/bustedmind/Hack-dino-game/main/t-rex-game.png)
 
 Thanks for watching. 
-follow us on [Youtube](https://www.youtube.com/channel/UCb00xaR27QrZtwQypbIpphA/)
+follow us on [Youtube](https://www.youtube.com/channel/UCb00xaR27QrZtwQypbIpphA/) and comment if you have any query or suggestions. We will be happy to hear you. 😊
