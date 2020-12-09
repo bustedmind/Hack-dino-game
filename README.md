@@ -37,7 +37,9 @@ Please copy and paste the given code into console and enjoy the hacks. Play whil
 ## -- Change dino character
 You need one image URL like [https://raw.githubusercontent.com/bustedmind/Hack-dino-game/main/replace-charracter.png](https://raw.githubusercontent.com/bustedmind/Hack-dino-game/main/replace-charracter.png) and replace with image src of offline resources.
 
+
 ![Image should be in this format](https://raw.githubusercontent.com/bustedmind/Hack-dino-game/main/replace-charracter.png)
+
 
 You copy the image URL and replace the image URL as per below SS 
 
