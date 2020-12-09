@@ -35,9 +35,9 @@ Please copy and paste the given code into console and enjoy the hacks. Play whil
 
     Runner.instance_.distanceRan = 1222900
 ## -- Change dino character
-You need one image URL like [https://i.imgur.com/7BuRkS9.png ](https://i.imgur.com/7BuRkS9.png) and replace with image src of offline resources.
+You need one image URL like [https://raw.githubusercontent.com/bustedmind/Hack-dino-game/main/replace-charracter.png](https://raw.githubusercontent.com/bustedmind/Hack-dino-game/main/replace-charracter.png) and replace with image src of offline resources.
 
-![Image should be in this format](https://i.imgur.com/7BuRkS9.png)
+![Image should be in this format](https://raw.githubusercontent.com/bustedmind/Hack-dino-game/main/replace-charracter.png)
 
 You copy the image URL and replace the image URL as per below SS 
 
