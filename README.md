@@ -1,6 +1,6 @@
 # Welcome to Google chrome dino game hacks!
 
-![Max-score-image](https://raw.githubusercontent.com/mabhaymaurya/Hack-dino-game/main/hack%20t-rex%20game.jpeg?token=AI6B4PFHZTFOQVGX6KU2MHK72BINO)
+![Max-score-image](https://raw.githubusercontent.com/mabhaymaurya/Hack-dino-game/main/hack%20t-rex%20game.jpeg)
 
 Hi welcome, here you will learn how to hack google chrome **dinosaur game** ( **t-rex** game ). You only need to follow the below steps. With this you can acheive max score **999999**.  for more please visit below link.
 	
@@ -11,7 +11,7 @@ Hi welcome, here you will learn how to hack google chrome **dinosaur game** ( **
     ``chrome://dino``
     
  - Open console panel using **right mouse click -> Inspect > console** or enter **F12** 
- ![enter image description here](https://raw.githubusercontent.com/mabhaymaurya/Hack-dino-game/main/console.png?token=AI6B4PCJ7VH6Y2BXAFFFYGK72BHOQ)
+ ![enter image description here](https://raw.githubusercontent.com/mabhaymaurya/Hack-dino-game/main/console.png)
  - Now you only need to copy and paste the below JS code according to the need what you want to hack into console panel. then enjoy the party ... 
 
 
@@ -41,7 +41,7 @@ You need one image URL like [https://i.imgur.com/7BuRkS9.png ](https://i.imgur.c
 
 You copy the image URL and replace the image URL as per below SS 
 
-![enter image description here](https://raw.githubusercontent.com/mabhaymaurya/Hack-dino-game/c62213eff7d52a638514a706a1f1e3d517bc69a5/trex-resouce-replace.png?token=AI6B4PBDQKO3LYY5QDAWCMS72BGQW)
+![enter image description here](https://raw.githubusercontent.com/mabhaymaurya/Hack-dino-game/main/trex-resouce-replace.png)
 
 Now you are donw with changing Avatar. 
 ## -- Bot Play the game
@@ -75,7 +75,7 @@ Run the below code to let the JS play the game.
 	autoPlay();
 
 # You can play with the code to hack more. 
-![enter image description here](https://raw.githubusercontent.com/mabhaymaurya/Hack-dino-game/main/t-rex-game.png?token=AI6B4PABCH5MF2VBVOUQMNK72BHWK)
+![enter image description here](https://raw.githubusercontent.com/mabhaymaurya/Hack-dino-game/main/t-rex-game.png)
 
 Thanks for watching. 
 follow us on [Youtube](https://www.youtube.com/channel/UCb00xaR27QrZtwQypbIpphA/)
